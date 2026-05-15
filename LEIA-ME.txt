@@ -1,0 +1,12 @@
+PJ Transportes - App instalável
+
+Atualização:
+- Adicionado botão EDITAR em Viagens cadastradas.
+- Ao clicar em Editar, os dados da viagem voltam para o formulário.
+- O botão Salvar viagem muda para Atualizar viagem.
+- Caso o ID da viagem seja alterado, as despesas vinculadas também são atualizadas para o novo ID.
+
+Para instalar no celular:
+1. Publique esta pasta no GitHub Pages ou em outro servidor HTTPS.
+2. Abra o link pelo Google Chrome no Android.
+3. Use o botão Instalar aplicativo ou o menu do Chrome > Adicionar à tela inicial.
